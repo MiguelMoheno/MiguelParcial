@@ -1,0 +1,5 @@
+Controles
+
+Movimiento: A y D para moverse de lado a lado
+
+Click izquierdo: Disparar
